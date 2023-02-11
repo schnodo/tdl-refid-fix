@@ -4,7 +4,7 @@ Based on a backup that is not corrupted, tdl-refid-fix restores task references 
 The implementation does not provide a lot of error handling. I really needed the tool only once to reconstruct a large number of destroyed references.
 
 ## How to use
-1. Run `tdl-refid-fix.pyw`
+1. Using Python, run `tdl-refid-fix.pyw`
 1. Select the file that contains the backup (good), with the references still existing.
 1. Select the file where the references are destroyed (bad).
 
