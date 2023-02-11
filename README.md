@@ -1,7 +1,7 @@
 # tdl-refid-fix
 Based on a backup that is not corrupted, tdl-refid-fix restores task references that were destroyed by ToDoList 8.2.A1. This comes in handy when the task list was  worked on for a while before noticing that references had been replaced by plain copies.
 
-The implementation does not provide a lot of error handling I really needed the tool only once to reconstruct a large number of destroyed references.
+The implementation does not provide a lot of error handling. I really needed the tool only once to reconstruct a large number of destroyed references.
 
 ## How to use
 1. Run `tdl-refid-fix.pyw`
