@@ -17,4 +17,4 @@ The implementation of tdl-refid-fix does not provide a lot of error handling. I 
 1. tdl-refid-fix saves the file under a new name. If the file name is `bad.tdl`, the corrected file will be saved as `bad_fixed.tdl`.
 
 ## Things to consider
-If you manually arranged the tasks in `bad.tdl`, rename `bad_fixed.tdl` to `bad.tdl` after assuring its correctness. Otherwise the order set by the user seems to get lost.
+If you manually arranged the tasks in `bad.tdl`, rename `bad_fixed.tdl` to `bad.tdl` after assuring its correctness. Otherwise the task order set by the user ("unsorted" in ToDoList lingo) seems to get lost.
